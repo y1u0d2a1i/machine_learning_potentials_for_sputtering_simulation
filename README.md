@@ -1,0 +1,2 @@
+# machine_learning_potentials_for_sputtering_simulation
+List of Machine learning interatomic potentials for executing Si sputtering simulation
